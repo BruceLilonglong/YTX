@@ -84,10 +84,10 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_framework "Pods-YTX_Tests/YTX.framework"
   install_framework "Pods-YTX_Tests/Kiwi.framework"
+  install_framework "Pods-YTX_Tests/YTX.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_framework "Pods-YTX_Tests/YTX.framework"
   install_framework "Pods-YTX_Tests/Kiwi.framework"
+  install_framework "Pods-YTX_Tests/YTX.framework"
 fi

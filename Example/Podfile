@@ -1,12 +1,11 @@
 source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
-target 'YTX_Example', :exclusive => true do
-  pod 'YTX', :path => '../'
-end
+#target 'YTX_Example', :exclusive => true do
+#  pod 'YTX', :path => '../'
+#end
 
 target 'YTX_Tests', :exclusive => true do
-  pod 'YTX', :path => '../'
-
+  pod 'YTX/UIImage', :path => '../'
   pod 'Kiwi'
 end
