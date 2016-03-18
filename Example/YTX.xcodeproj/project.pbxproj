@@ -62,7 +62,7 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		88F00DBF4D1907767491B96A /* Pods-YTX_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YTX_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YTX_Example/Pods-YTX_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		C4A315E10452ACB9D42E1AD3 /* YTX.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YTX.podspec; path = ../YTX.podspec; sourceTree = "<group>"; };
+		C4A315E10452ACB9D42E1AD3 /* YTX.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YTX.podspec; path = ../YTX.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		EDC12B4DBCDA1140330B356E /* Pods_YTX_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YTX_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5A0267ED1031EE8CAD8C9AA /* Pods_YTX_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YTX_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
